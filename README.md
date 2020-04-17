@@ -46,7 +46,7 @@ Write helpers methods in `./schemes/scheme-model.js` that match the following sp
     -   Expects a changes object and an `id`.
     -   Updates the scheme with the given id.
     -   Resolves to the newly updated scheme object.
--   `remove(id)`:
+-   `remove(id)`: 
     -   Removes the scheme object with the provided id.
     -   Resolves to the removed scheme
     -   Resolves to `null` on an invalid id.
